@@ -46,3 +46,25 @@ $on-laptop:        700px;
         "layout",
         "syntax-highlighting"
 ;
+
+.sectionBreak {
+  padding: 20px 0 10px;
+
+}
+
+.subSection {
+  padding-left: 10px;
+}
+
+.tableList {
+  list-style-type: none;
+  margin-left: 10px;
+}
+
+td {
+  vertical-align: top;
+}
+
+.fr {
+  float: right;
+}
